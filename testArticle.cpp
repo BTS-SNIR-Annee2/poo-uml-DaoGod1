@@ -1,9 +1,9 @@
 #include <iostream>
 #include <list>
-
+#include "Article.h"
 using namespace std;
 
-#include "Article.h"
+
 
 int main() 
 {

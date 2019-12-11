@@ -22,6 +22,15 @@ int main()
     */
    
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
    /* Question 3 */
    Article a1, a2("A Game of Thrones - Le Trone de fer, tome 1", 13.29), a3("Le Trone de fer, Tome 13 : Le Bucher d'un roi", 17.96);
    a1.setTitre("Le Trone de fer, tome 14");
