@@ -11,7 +11,6 @@ int main()
 {
    /* Question 5 */
    Commande c1, c2("A00002", "11/04/2013");
-   
    cout << "Question 5 : " << endl;
    c1.setReference("A00001");
    c1.setDate("10/04/2013");

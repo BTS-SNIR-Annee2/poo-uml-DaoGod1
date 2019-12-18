@@ -4,7 +4,6 @@
 using namespace std;
 
 #include "Commande.h"
-
 Commande::Commande(string reference, string date)
 {
 	this->reference = reference;
