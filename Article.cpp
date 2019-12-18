@@ -4,7 +4,6 @@
 using namespace std;
 
 
-
 Article::Article(string titre, double prix)
 {
 	this->titre = titre;

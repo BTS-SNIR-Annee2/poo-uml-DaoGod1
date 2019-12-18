@@ -17,5 +17,4 @@ class Article
       void setTitre(std::string titre);
       void setPrix(double prix);
 };
-
 #endif //ARTICLE_H
