@@ -21,5 +21,4 @@ class Ligne
       
       void afficher();
 };
-
 #endif //LIGNE_H

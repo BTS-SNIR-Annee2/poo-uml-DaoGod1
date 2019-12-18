@@ -44,7 +44,6 @@ void Ligne::setQuantite(long quantite)
 	
 }
       
-
 void Ligne::afficher()
 {
 		cout << setfill(' ') << setw(3) << quantite;
